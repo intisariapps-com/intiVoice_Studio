@@ -1,7 +1,7 @@
 {
-  "app_version": "1.9.0",
-  "build_time": "18 Oktober 2026, 02:15 WIB",
-  "release_title": "V1.9.0 (Colab UI AutoCut Alignment, Google Drive Auto-Connect Vault, QR Code Pairing & Text Sanitizer)",
+  "app_version": "1.9.1",
+  "build_time": "18 October 2026, 15:42 WIB",
+  "release_title": "V1.9.1 (Pre-Flight License & HWID Gatekeeper Alignment)",
   "components": {
     "modal": {
       "target": "modal_deploy.py",
@@ -11,14 +11,14 @@
     },
     "colab": {
       "target": "colab/intiVoice_Studio.ipynb",
-      "version": "1.9.0",
-      "updated_at": "18 Oktober 2026, 02:15 WIB",
+      "version": "1.9.1",
+      "updated_at": "18 October 2026, 15:42 WIB",
       "description": "Colab UI AutoCut Alignment, Form DRIVE_BROKER_TOKEN Auto-Connect, QR Code Camera Pairing, Kernel Guardian"
     },
     "web_studio": {
       "target": "web/package.json",
-      "version": "1.9.0",
-      "updated_at": "18 Oktober 2026, 02:15 WIB",
+      "version": "1.9.1",
+      "updated_at": "18 October 2026, 15:42 WIB",
       "description": "Google Drive Vault Token Copy Widget, Text Sanitizer UI Integration, Dynamic Trial"
     }
   }
