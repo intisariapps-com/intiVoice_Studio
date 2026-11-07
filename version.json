@@ -1,7 +1,7 @@
 {
-  "app_version": "1.9.2",
-  "build_time": "19 October 2026, 13:50 WIB",
-  "release_title": "V1.9.2 (Google Drive Audio History Vault & Streaming Playback)",
+  "app_version": "1.9.3",
+  "build_time": "07 November 2026, 11:09 WIB",
+  "release_title": "V1.9.3 (Auto-Play Chunk, Regenerasi Mandiri, Fail-Safe WAV & Kurasi 4 Karakter Master)",
   "components": {
     "modal": {
       "target": "modal_deploy.py",
@@ -11,14 +11,14 @@
     },
     "colab": {
       "target": "colab/intiVoice_Studio.ipynb",
-      "version": "1.9.2",
-      "updated_at": "19 October 2026, 13:50 WIB",
+      "version": "1.9.3",
+      "updated_at": "07 November 2026, 11:09 WIB",
       "description": "Colab UI AutoCut Alignment, Form DRIVE_BROKER_TOKEN Auto-Connect, QR Code Camera Pairing, Kernel Guardian"
     },
     "web_studio": {
       "target": "web/package.json",
-      "version": "1.9.2",
-      "updated_at": "19 October 2026, 13:50 WIB",
+      "version": "1.9.3",
+      "updated_at": "07 November 2026, 11:09 WIB",
       "description": "Google Drive Vault Token Copy Widget, Text Sanitizer UI Integration, Dynamic Trial"
     }
   }
